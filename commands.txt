@@ -1,0 +1,10 @@
+CREATE DATABASE my_db_name;
+CREATE TABLE IF NOT EXISTS table_one(....);
+USE my_db_name
+SHOW TABLES; 
+INSERT INTO table_one(...) VALUES(...)
+SELECT * FROM table_one
+DROP TABLE table_one;
+DESCRIBE table_one;
+DESC table_one;
+TRUNCATE table_one; 

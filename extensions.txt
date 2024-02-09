@@ -1,0 +1,4 @@
+Les extensions à installer sont les suivantes:
+- redis
+- base16 terminal
+- Material Icon Theme
